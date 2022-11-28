@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: bisque;
+    text-align: center;
+    color: blueviolet;
+}
+.fundoletra{
+    background-color: aquamarine;
+    color: blueviolet;
+    text-align: center;
+    
+}
+h2{background-color: bisque;
+    text-align: center;
+    color: blueviolet;
+
+}
